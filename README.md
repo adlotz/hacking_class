@@ -1,24 +1,6 @@
-# README
+# The hacking class
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Excercice sur les interactions entre bases de données.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+dans ce repo on va travailler sur les interactions entre une classe cours et une classe élève.
